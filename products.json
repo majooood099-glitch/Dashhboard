@@ -1,3 +1,13 @@
 [
-  
+  {
+    "id": 1768354572833,
+    "name": "سيرومكلاب",
+    "price": "50000",
+    "old_price": "70000",
+    "cat": "",
+    "img": "https://i.ibb.co/YCzd4V3/Screenshot-Facebook.jpg",
+    "desc": "ىنبنبت\nل\nل\nب\nب\nب\nب\nب\nب\nب\nب\nب\nى\nل\nب\nب\nبب",
+    "is_offer": true,
+    "badge_text": "خصم ١٠ بالمية"
+  }
 ]
